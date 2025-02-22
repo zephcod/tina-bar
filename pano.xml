@@ -13,14 +13,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="pano" customnodeid="" nodeid="node6" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime="2/4/2024 7:06 PM"/>
+    <userdata comment="" longitude="" tags="pano" customnodeid="" nodeid="node6" source="" heading="0" description="" info="" author="" copyright="" title="Entrance Foyer" latitude="" datetime="2/4/2024 7:06 PM"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot pan="-56.26" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node7}" id="Point01" tilt="-24.16" title="Coffee Corner"/>
       <hotspot pan="-282.9" target="" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-19.19" title="Turf Seating"/>
-      <hotspot pan="-315.33" target="171.4/-2.0/70.0" description="" skinid="ht_node" url="{node9}" id="Point03" tilt="-14.24" title="Back Pathway"/>
-      <hotspot pan="-10.97" target="" description="" skinid="ht_node" url="{node9}" id="Point04" tilt="-19.08" title="Main Pathway"/>
+      <hotspot pan="-316.64" target="171.4/-2.0/70.0" description="" skinid="ht_node" url="{node9}" id="Point03" tilt="-15.27" title="Back Pathway"/>
+      <hotspot pan="-11.57" target="" description="" skinid="ht_node" url="{node9}" id="Point04" tilt="-18.72" title="Main Pathway"/>
       <hotspot pan="-5.74" target="-0.6/2.1/70.0" description="" skinid="ht_node" url="{node12}" id="Point03" tilt="-11.19" title="Main path center"/>
       <hotspot pan="-2.33" target="59.4/-2.6/70.0" description="" skinid="ht_node" url="{node18}" id="Point02" tilt="-6.76" title="Back seating"/>
     </hotspots>
@@ -43,15 +43,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node7" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node7" source="" heading="0" description="" info="" author="" copyright="" title="Coffee Area" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot pan="-282.64" target="30.8/5.3/70.0" description="" skinid="ht_node" url="{node10}" id="Point01" tilt="-23.97" title="Main Pathway"/>
-      <hotspot pan="-215.71" target="51.1/1.6/70.0" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-12.12" title="Turf Seating"/>
+      <hotspot pan="-224.47" target="51.1/1.6/70.0" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-11.26" title="Turf Seating"/>
       <hotspot pan="-192.91" target="116.8/-2.9/70.0" description="" skinid="ht_node" url="{node6}" id="Point03" tilt="-26.04" title="Entrance Foyer"/>
       <hotspot pan="-289.49" target="-0.6/2.1/70.0" description="" skinid="ht_node" url="{node12}" id="Point03" tilt="-14.15" title="Main path center"/>
-      <hotspot pan="-240.28" target="171.4/-2.0/70.0" description="" skinid="ht_node" url="{node9}" id="Point03" tilt="-11.19" title="Back Pathway"/>
+      <hotspot pan="-239.32" target="171.4/-2.0/70.0" description="" skinid="ht_node" url="{node9}" id="Point03" tilt="-11.38" title="Back Pathway"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" blendtime="1" type="crossdissolve" zoomspeed="3.5" enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomafterinfov="90" softedge="0" zoomin="6" blendcolor="0x000000" zoomout="0"/>
@@ -72,14 +72,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node8" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node8" source="" heading="0" description="" info="" author="" copyright="" title="Turf Seating" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot pan="-183.21" target="-155.4/-5.0/70.0" description="" skinid="ht_node" url="{node6}" id="Point03" tilt="-30.65" title="Entrance Foyer"/>
-      <hotspot pan="-145.28" target="-52.2/-5.3/70.0" description="" skinid="ht_node" url="{node7}" id="Point01" tilt="-17.42" title="Coffee Corner"/>
-      <hotspot pan="-106.64" target="-41.2/0.2/70.0" description="" skinid="ht_node" url="{node10}" id="Point04" tilt="-21.35" title="Main Pathway"/>
-      <hotspot pan="-18.99" target="-173.5/2.4/70.0" description="" skinid="ht_node" url="{node9}" id="Point03" tilt="-24.47" title="Back Pathway"/>
+      <hotspot pan="-180.31" target="-155.4/-5.0/70.0" description="" skinid="ht_node" url="{node6}" id="Point03" tilt="-19.67" title="Entrance Foyer"/>
+      <hotspot pan="-145.86" target="-52.2/-5.3/70.0" description="" skinid="ht_node" url="{node7}" id="Point01" tilt="-13.4" title="Coffee Corner"/>
+      <hotspot pan="-123.94" target="-41.2/0.2/70.0" description="" skinid="ht_node" url="{node10}" id="Point04" tilt="-16.06" title="Main Pathway"/>
+      <hotspot pan="-43.84" target="-173.5/2.4/70.0" description="" skinid="ht_node" url="{node9}" id="Point03" tilt="-31.81" title="Back Pathway"/>
+      <hotspot pan="-48.18" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node11}" id="Point01" tilt="-16.09" title="Back path center"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" blendtime="1" type="crossdissolve" zoomspeed="3.5" enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomafterinfov="90" softedge="0" zoomin="6" blendcolor="0x000000" zoomout="0"/>
@@ -100,15 +101,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node9" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node9" source="" heading="0" description="" info="" author="" copyright="" title="Back Path" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot pan="-2.79" target="-155.4/-5.0/70.0" description="" skinid="ht_node" url="{node6}" id="Point03" tilt="-15.14" title="Entrance Foyer"/>
-      <hotspot pan="-222.44" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node11}" id="Point01" tilt="-21.73" title="Back path center"/>
-      <hotspot pan="-64.82" target="119.5/-1.8/70.0" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-26.84" title="Turf Seating"/>
-      <hotspot pan="-336.49" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node7}" id="Point01" tilt="-12.65" title="Coffee Corner"/>
-      <hotspot pan="-225.93" target="1.7/-0.2/70.0" description="" skinid="ht_node" url="{node14}" id="Point02" tilt="-11.96" title="Rear path"/>
+      <hotspot pan="-134.97" target="-170.8/-2.7/70.0" description="" skinid="ht_node" url="{node6}" id="Point03" tilt="-14.5" title="Entrance Foyer"/>
+      <hotspot pan="-3.48" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node11}" id="Point01" tilt="-23.71" title="Back path center"/>
+      <hotspot pan="-176.81" target="123.6/-1.8/70.0" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-30.69" title="Turf Seating"/>
+      <hotspot pan="-112.25" target="-68.6/0.0/70.0" description="" skinid="ht_node" url="{node7}" id="Point01" tilt="-11.72" title="Coffee Corner"/>
+      <hotspot pan="-4.75001" target="1.7/-0.2/70.0" description="" skinid="ht_node" url="{node14}" id="Point02" tilt="-12.01" title="Rear path"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" blendtime="1" type="crossdissolve" zoomspeed="3.5" enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomafterinfov="90" softedge="0" zoomin="6" blendcolor="0x000000" zoomout="0"/>
@@ -129,7 +130,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node10" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node10" source="" heading="0" description="" info="" author="" copyright="" title="Main Path" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -159,7 +160,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node11" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node11" source="" heading="0" description="" info="" author="" copyright="" title="Back Path Center" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -188,7 +189,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node12" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node12" source="" heading="0" description="" info="" author="" copyright="" title="Main Path Center" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -220,7 +221,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node13" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node13" source="" heading="0" description="" info="" author="" copyright="" title="Dinning Area" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -249,7 +250,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node14" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node14" source="" heading="0" description="" info="" author="" copyright="" title="Rear Path" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -278,7 +279,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node15" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node15" source="" heading="0" description="" info="" author="" copyright="" title="VIP Room" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -303,15 +304,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node16" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node16" source="" heading="0" description="" info="" author="" copyright="" title="Bar &amp; Counter" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot pan="-229.38" target="86.5/0.9/70.0" description="" skinid="ht_node" url="{node11}" id="Point01" tilt="-11.69" title="Back path center"/>
-      <hotspot pan="-278.56" target="84.9/-3.1/70.0" description="" skinid="ht_node" url="{node18}" id="Point02" tilt="-11.42" title="Back seating"/>
-      <hotspot pan="-228.77" target="89.6/-1.2/70.0" description="" skinid="ht_node" url="{node12}" id="Point03" tilt="-20.64" title="Main path center"/>
-      <hotspot pan="-184.75" target="" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-9.66" title="Turf Seating"/>
-      <hotspot pan="-229.69" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node13}" id="Point02" tilt="-6.58" title="Elevated Seating"/>
+      <hotspot pan="-0.509997" target="86.5/0.9/70.0" description="" skinid="ht_node" url="{node11}" id="Point01" tilt="-11.15" title="Back path center"/>
+      <hotspot pan="-55.7" target="84.9/-3.1/70.0" description="" skinid="ht_node" url="{node18}" id="Point02" tilt="-9.46" title="Back seating"/>
+      <hotspot pan="-2.44" target="89.6/-1.2/70.0" description="" skinid="ht_node" url="{node12}" id="Point03" tilt="-18.51" title="Main path center"/>
+      <hotspot pan="-347.43" target="" description="" skinid="ht_node" url="{node8}" id="Point02" tilt="-9.38" title="Turf Seating"/>
+      <hotspot pan="-0.240011" target="0.0/0.0/70.0" description="" skinid="ht_node" url="{node13}" id="Point02" tilt="-5.43" title="Elevated Seating"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" blendtime="1" type="crossdissolve" zoomspeed="3.5" enabled="1" zoomoutpause="1" zoomafteroutfov="20" zoomafterinfov="90" softedge="0" zoomin="6" blendcolor="0x000000" zoomout="0"/>
@@ -332,7 +333,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node17" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node17" source="" heading="0" description="" info="" author="" copyright="" title="Main Path Center" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
@@ -362,7 +363,7 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max scaletofit="1" pan="360" fovfisheye="360" fovstereographic="270" fov="120" tilt="90"/>
     </view>
-    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node18" source="" heading="0" description="" info="" author="" copyright="" title="Tina-Sportbar" latitude="" datetime=""/>
+    <userdata comment="" longitude="" tags="v1" customnodeid="" nodeid="node18" source="" heading="0" description="" info="" author="" copyright="" title="Back Seating" latitude="" datetime=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label borderalpha="1" width="180" enabled="1" height="20" wordwrap="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
